@@ -1,0 +1,9 @@
+pushgateway:
+  enabled: false
+
+alertmanager:
+  enabled: false
+
+nodeExporter:
+  enabled: false
+
